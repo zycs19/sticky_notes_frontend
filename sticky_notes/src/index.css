@@ -10,12 +10,12 @@
 
 :root {
   /* COLORS */
-  --BGCOLOR: #0F172A;
+  --BGCOLOR: #b3b3bb;
   --BORDER-COLOR: #FFF;
-  --COLOR: #FFF;
+  --COLOR: #170d0d;
   --ERROR: firebrick;
   --INACTIVE: lightgray;
-  --LINK-COLOR: whitesmoke;
+  --LINK-COLOR: rgb(39, 34, 34);
   --LINK-HOVER: rgba(245, 245, 245, 0.9);
   --NOTE-BGCOLOR: hsla(240, 64%, 27%, 0.65);
   --STATUS-COMPLETE: limegreen;
